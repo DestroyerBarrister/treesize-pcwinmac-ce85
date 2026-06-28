@@ -1,4 +1,4 @@
-# 
+# 专业 TreeSize 脚本 Mac OS版 | 极速 TreeSize 脚本 PC Windows版。集成 格式转换 和 警报通知，跨平台性能最大化。
 
 
 
